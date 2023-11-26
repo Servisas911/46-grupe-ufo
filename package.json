@@ -1,0 +1,15 @@
+{
+    "name": "46-grupe-ufo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "dead-server --host=localhost --port=4605"
+    },
+    "keywords": [],
+    "author": "Rimantas (https://github.com/belauzas)",
+    "license": "MIT",
+    "devDependencies": {
+        "dead-server": "^1.0.9"
+    }
+}
